@@ -8,7 +8,7 @@ Add Students: Users can create new student records by entering roll number, name
 
 Technology Used:
 
-Backend: Python, Django (or Flask) for managing the logic and database. Frontend: HTML, CSS. Database: SQLite to store student information.
+Backend: Python, Django for managing the logic and database. Frontend: HTML, CSS. Database: SQLite to store student information.
 
 Use Cases:
 
